@@ -11,4 +11,6 @@ count.txt
 .output
 .vinxi
 todos.json
-mcp-todos.json
+
+*storybook.log
+storybook-static
