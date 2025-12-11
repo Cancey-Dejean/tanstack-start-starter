@@ -10,7 +10,11 @@ const config: StorybookConfig = {
     "@chromatic-com/storybook",
     "@storybook/addon-vitest",
     "@storybook/addon-a11y",
-    "@storybook/addon-docs"
+    "@storybook/addon-docs",
+    '@storybook/addon-links',
+    '@storybook/addon-themes',
+    "storybook-addon-test-codegen",
+    "@whitespace/storybook-addon-html",
   ],
   "framework": "@storybook/react-vite"
 };
