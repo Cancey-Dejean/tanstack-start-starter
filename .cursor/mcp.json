@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "context7": {
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "vercel": {
+      "url": "https://mcp.vercel.com"
+    },
+    "motion": {
+      "command": "npx -y motion-ai",
+      "env": {},
+      "args": []
+    },
+  }
+}
