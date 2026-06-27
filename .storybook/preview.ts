@@ -1,4 +1,4 @@
-import type { Preview } from '@storybook/react-vite'
+import type { Preview } from '@storybook/tanstack-react'
 import { INITIAL_VIEWPORTS } from "storybook/viewport"
 import { withThemeByClassName } from "@storybook/addon-themes"
 import '../src/styles.css'

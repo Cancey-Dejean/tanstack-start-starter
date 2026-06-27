@@ -1,4 +1,4 @@
-import type { StorybookConfig } from '@storybook/react-vite';
+import type { StorybookConfig } from '@storybook/tanstack-react';
 
 
 const config: StorybookConfig = {
@@ -16,6 +16,6 @@ const config: StorybookConfig = {
     "storybook-addon-test-codegen",
     "@whitespace/storybook-addon-html",
   ],
-  "framework": "@storybook/react-vite"
+  "framework": "@storybook/tanstack-react"
 };
 export default config;
